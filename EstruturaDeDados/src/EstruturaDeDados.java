@@ -29,6 +29,7 @@ public class EstruturaDeDados {
       System.out.println("Obesidade grau 1 ou 2");
     } else {
       System.out.println("Obesidade grau 3");
+      System.out.println("Muito cuidado com o seu peso");
     }
 
 
